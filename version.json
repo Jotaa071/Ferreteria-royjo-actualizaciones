@@ -1,3 +1,8 @@
 {
-  "version": "1.0.0"
+  "version": "2.0.1",
+  "url": "https://github.com/Jotaa071/Ferreteria-royjo-actualizaciones/releases/download/v2.0.1/Ferreteria.RoJo.exe",
+  "notas": [
+    "Corrección del funcionamiento de caja",
+    "Mejoras en cierre de caja y sesiones"
+  ]
 }
