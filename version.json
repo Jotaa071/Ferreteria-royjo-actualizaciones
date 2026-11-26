@@ -1,10 +1,12 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/Jotaa071/Ferreteria-royjo-actualizaciones/releases/download/v2.1.0/Ferreteria.RoJo.exe",
+  "version": "2.2.0",
+  "url": "https://github.com/Jotaa071/Ferreteria-royjo-actualizaciones/releases/download/v2.2.0/Ferreteria.RoJo.exe",
+  "sha256": "4d2978b59ad38d1a8cb95ed4504ae1663c8125b1a1c9132637341bbdf24481b4",
   "notas": [
-    "Adaptación para celulares (Android/iPhone)",
-    "Escaneo de código de barras con la cámara",
-    "Cámara para sacar fotos de productos",
+    "Asistente propio: responde con tus datos al instante, sin costo",
+    "Arreglado el escaneo de códigos con la cámara",
+    "Ya no hace falta volver a iniciar sesión al abrir el programa",
+    "Menos errores al cargar algo después de un rato sin usar",
     "Mejoras de seguridad"
   ]
 }
