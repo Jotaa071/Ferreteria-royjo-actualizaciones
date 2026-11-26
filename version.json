@@ -1,13 +1,14 @@
 {
-  "version": "2.2.1",
-  "url": "https://github.com/Jotaa071/Ferreteria-royjo-actualizaciones/releases/download/v2.2.1/Ferreteria.RoJo.exe",
-  "sha256": "e27d327e04a97aa0d482fc552aa064569a92ec4db3577087260564b542036943",
+  "version": "2.2.2",
+  "url": "",
+  "url_auto": "https://github.com/Jotaa071/Ferreteria-royjo-actualizaciones/releases/download/v2.2.2/Ferreteria.RoJo.exe",
+  "sha256": "26f02a57b2fe488a101a363562ceb3217735e3071215aa1e25e0639d500f3167",
   "notas": [
+    "Actualización automática arreglada: ahora muestra el progreso y se instala sola",
     "Asistente propio: responde con tus datos al instante, sin costo",
     "Arreglada la pantalla de Caja",
     "Arreglado el escaneo de códigos con la cámara",
     "Ya no hace falta volver a iniciar sesión al abrir el programa",
-    "Menos errores al cargar algo después de un rato sin usar",
     "Mejoras de seguridad y de colores"
   ]
 }
